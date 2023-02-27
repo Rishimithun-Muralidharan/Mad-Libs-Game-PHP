@@ -6,6 +6,13 @@
   </head>
   <body>
     <h1>Mad Libs Game</h1>
+    <form method="get" acton="madlibs.php">
+      <input type="submit">
+    </form>
+    <br/>
+    <?php
+    
+    ?>
 
   </body>
 </html>
